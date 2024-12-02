@@ -1,5 +1,5 @@
 # jokes
 
-Jokes Postman Api Collection to test the code
+Jokes Postman Api Collection to test the code - import this or copy-paste it in your postman
 
-https://api.postman.com/collections/12231618-a2f095a9-efde-4a33-a73d-6b9a35278998?access_key=PMAT-01JE47JTZZ2RC0KJNP2WYHTD4X
+[JokeAPI.postman_collection.json](https://github.com/user-attachments/files/17981916/JokeAPI.postman_collection.json)
